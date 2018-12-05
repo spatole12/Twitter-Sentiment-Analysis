@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544050306984.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2630943252",
+    "id" : "B8AF2CC7",
+    "lastKnownWriteTime" : 1544050331,
+    "last_content_update" : 1544050331780,
+    "path" : "D:/R/Twitter_Sentiment_Analysis/Twitter_Sentiment_Analysis.R",
+    "project_path" : "Twitter_Sentiment_Analysis.R",
+    "properties" : {
+        "cursorPosition" : "55,0",
+        "scrollLine" : "25",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
